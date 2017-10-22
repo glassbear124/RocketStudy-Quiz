@@ -1,0 +1,23 @@
+PODS:
+  - KDCircularProgress (1.4.1)
+  - YYCache (1.0.3)
+  - YYImage (1.0.3):
+    - YYImage/Core (= 1.0.3)
+  - YYImage/Core (1.0.3)
+  - YYWebImage (1.0.4):
+    - YYCache
+    - YYImage
+
+DEPENDENCIES:
+  - KDCircularProgress
+  - YYWebImage (~> 1.0)
+
+SPEC CHECKSUMS:
+  KDCircularProgress: c931181cbe3fe988a93250ac700c5a0d8b90e2bf
+  YYCache: 282f35b5b0990833d0b7a06d864a87141a021da2
+  YYImage: 362f44ffba1fc498f2152060f3bb54ed84600981
+  YYWebImage: 0431ed108e104527669b86f75efd58958425cca2
+
+PODFILE CHECKSUM: 9949c4f3482c51f0ae0cf6822803764475e66a68
+
+COCOAPODS: 1.0.1
